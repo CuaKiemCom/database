@@ -104,5 +104,17 @@
       "id": "bb84e765-31aa-4f0d-8430-b3f75d88c1aa",
       "answer": "CRYPTOZONE"
     },
+    {
+      "id": "7a3502e2-cdc7-4842-8879-bbeb2ebec594",
+      "answer": "Blumify"
+    },
+    {
+      "id": "4477c434-f8df-4432-a3d7-b47a6e44c1d7",
+      "answer": "Dexxx"
+    },
+    {
+      "id": "d275de44-df86-45f7-92e0-fb28e3a01830",
+      "answer": "CRYPTOGAS"
+    },
   ]
 }
