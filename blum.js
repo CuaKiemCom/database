@@ -1,5 +1,5 @@
 {
-  "tasks":[
+  "tasks": [
     {
       "id": "38f6dd88-57bd-4b42-8712-286a06dac0a0",
       "answer": "VALUE"
@@ -116,5 +116,13 @@
       "id": "d275de44-df86-45f7-92e0-fb28e3a01830",
       "answer": "CRYPTOGAS"
     },
+    {
+      "id": "6ffe9d16-e63c-49f0-935d-f428e29d4a4d",
+      "answer": "BLUMNOW"
+    },
+    {
+      "id": "a11ba4c2-6be5-4dd8-a371-b2ed82632e6a",
+      "answer": "Cryptobuzz"
+    }
   ]
 }
