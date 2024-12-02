@@ -123,6 +123,30 @@
     {
       "id": "a11ba4c2-6be5-4dd8-a371-b2ed82632e6a",
       "answer": "Cryptobuzz"
+    },
+    {
+      "id": "76b9a0fc-a67c-45ab-92fe-68530d45f57f",
+      "answer": "BOOBLUM"
+    },
+    {
+      "id": "f59b84fe-61ae-4cf5-8aae-5fd00321e052",
+      "answer": "SMARTBLUM"
+    },
+    {
+      "id": "85b81d92-99ad-4150-97dd-44fffe8134f9",
+      "answer": "GODEX"
+    },
+    {
+      "id": "38284c35-e1e3-43da-b2c6-34981677f926",
+      "answer": "Blumsss"
+    },
+    {
+      "id": "addab034-69c2-48f4-a532-84dc2b33a0d2",
+      "answer": "BLUMRULES"
+    },
+    {
+      "id": "5dcd66db-3872-4cf4-a3d0-85e6a909a3d4",
+      "answer": "BLUMTIPS"
     }
   ]
 }
